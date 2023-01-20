@@ -1,0 +1,27 @@
+{
+  "name": "postman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyashyadav0/Postman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyashyadav0/Postman/issues"
+  },
+  "homepage": "https://github.com/Shreyashyadav0/Postman#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "ngrok": "^4.3.3",
+    "peer": "^0.6.1",
+    "socket.io": "^4.5.4",
+    "uuid": "^9.0.0"
+  }
+}
