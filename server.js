@@ -11,7 +11,7 @@ const peerServer = ExpressPeerServer(server,{// then we pass it the server
     debug: true //for development purpose
 });
 const path =require('path');
-const { RESERVED_EVENTS } = require('socket.io/dist/socket');
+// const { RESERVED_EVENTS } = require('socket.io/dist/socket');
   
 //middlewares
 app.set("view engine", "ejs");
